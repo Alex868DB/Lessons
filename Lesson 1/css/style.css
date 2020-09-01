@@ -4,19 +4,30 @@
   padding: 5px;
   background-color: #f1f1f1;
 }
+
 .blue {
   color: rgb(9, 69, 211);
+}
+
+.Heper_text {
+  text-transform: uppercase;
+  font-style: italic;
 }
 
 .section {
   text-decoration: none;
 }
+
 .link {
   text-decoration: none;
 }
+
 .text_decoration {
   text-decoration: underline;
   font-weight: bold;
+}
+.text_decoration_1 {
+  font-style: italic;
 }
 .html {
   font-weight: bold;
