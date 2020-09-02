@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.wrap {
+  width: 205px;
+  text-align: center;
+}
+.container {
+  padding: 61px 46px 50px 49px;
+  margin: 5px 10px;
+  width: 300px;
+  border: 1px solid grey;
+}
+.hero-text {
+  /* width: 159px; */
+  font-size: 20px;
+  margin: 10px;
+  margin-top: 25px;
+  text-align: center;
+  color: #a8a8a8;
+}
+.price {
+  font-size: 40px;
+  margin-top: 10%;
+  color: #86babf;
+}
+.ul {
+  padding: 5px;
+  text-align: center;
+  margin-top: 5%;
+}
+.btn {
+  display: inline-block;
+  border: 2 px solid gray;
+  margin-top: 5%;
+  text-transform: lowercase;
+  font-size: 20px;
+  background-color: #fff;
+  padding: 10px;
+  color: grey;
+}
